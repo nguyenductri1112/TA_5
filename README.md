@@ -1,6 +1,6 @@
 # TA_5
 
-ARTIFICIAL INTELLIGENCE(outline)
+ARTIFICIAL INTELLIGENCE (outline)
 
 1. Introduction
    
