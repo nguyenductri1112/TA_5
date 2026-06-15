@@ -31,11 +31,6 @@ ARTIFICIAL INTELLIGENCE (outline)
     - Hỗ trợ bác sĩ phẫu thuật bằng robot có độ chính xác cao.
     - Rút ngắn thời gian nghiên cứu và phát triển các loại thuốc mới.
    
-    ° Quân sự (Military):
-    - Thiết bị bay không người lái (UAV) và các hệ thống phòng thủ tự động.
-    - Phân tích dữ liệu tình báo để dự báo nguy cơ xung đột.
-    - Hệ thống mô phỏng chiến thuật phục vụ huấn luyện binh sĩ.
-
     ° Công việc & Đời sống hàng ngày (Workplace & Daily Life):
     - Tự động hóa quy trình nghiệp vụ (RPA) trong văn phòng, giảm bớt công việc thủ công.
     - Trợ lý ảo thông minh (Siri, Alexa, ChatGPT) hỗ trợ tìm kiếm và quản lý công việc.
@@ -74,7 +69,7 @@ ARTIFICIAL INTELLIGENCE (outline)
     ° Sự lệ thuộc của con người:
     - Lạm dụng AI quá mức có thể làm giảm khả năng tư duy độc lập và kỹ năng giải quyết vấn đề của con người.
 
-7. Conclusion (Kết luận)
+5. Conclusion (Kết luận)
 
     ° Tóm tắt các ý chính: Khẳng định lại AI là một trong những phát minh mang tính cách mạng nhất của nhân loại, mang lại cả cơ hội khổng lồ lẫn thách thức lớn.
 
