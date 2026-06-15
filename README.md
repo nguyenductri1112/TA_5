@@ -52,6 +52,7 @@ ARTIFICIAL INTELLIGENCE (outline)
     - Đưa ra các gợi ý mua sắm, giải trí (Netflix, Spotify, thương mại điện tử) sát với sở thích cá nhân của từng người dùng.
       
 4. Disadvantages (Nhược điểm)
+
     ° Nguy cơ thất nghiệp và dịch chuyển lao động:
     - Nhiều công việc mang tính lặp đi lặp lại có nguy cơ bị thay thế hoàn toàn bởi máy móc, tạo áp lực chuyển đổi kỹ năng đối với người lao động.
 
