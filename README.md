@@ -1,4 +1,4 @@
- # TA_5
+ # TA_5 
 
 ARTIFICIAL INTELLIGENCE (outline)
 
