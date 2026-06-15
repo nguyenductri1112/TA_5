@@ -2,7 +2,7 @@
 
 ARTIFICIAL INTELLIGENCE (outline)
 
-1. Introduction (Mở đầu)
+1. Introduction (Mở đầu) 
    
     ° Lý do chọn đề tài:
     - Sự bùng nổ của công nghệ trong kỷ nguyên số (Cách mạng công nghiệp 4.0).
